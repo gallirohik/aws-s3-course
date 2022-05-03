@@ -64,18 +64,7 @@ function About() {
       <img
         alt="camaras"
         src="hd-image.jpg"
-        style={{ height: "400px", width: "600px" }}
-      />
-      <img
-        alt="camaras"
-        src="hd-image.jpg"
-        style={{ height: "400px", width: "600px" }}
-      />
-
-      <img
-        alt="camaras"
-        src="hd-image.jpg"
-        style={{ height: "400px", width: "600px" }}
+        style={{ height: "600px", width: "800px" }}
       />
     </div>
   );
